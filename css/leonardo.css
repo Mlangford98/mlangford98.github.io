@@ -49,8 +49,13 @@ ul li a:hover {
 	border-image: 
 	color: black;
 	font-weight: bold; 
+}
 
-}	
+audio {
+	visibility: none;
+}
+
+	
 
 .center{
 	display: block;
