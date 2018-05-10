@@ -6,7 +6,7 @@
 }
 
 body {
-	background-color: #bdd8d3;
+	background-color: #105187;
 	max-width: 100%;
 }
 
@@ -27,7 +27,7 @@ div {
 }
 
 ul {  
-	background-color: #52918b;
+	background-color: #424f59;
 	margin-top: 25px;
 	font-size: 18px;
 	width: 100%;
@@ -48,13 +48,11 @@ ul li a {
 }
 
 ul li a:hover {
-	color: purple;
+	color: red;
 	font-weight: bold; 
 }
 
 h1 {
-	border: 3px solid #5371a3;
-	border-style: inset;
 	width: 600px;
 	margin: 20px auto;
 	text-align: center; 
@@ -63,7 +61,7 @@ h1 {
 }
 
 .colorchange {
-	color: #911e07;
+	color: #ffeee5;
 }
 
 h3 {
@@ -73,12 +71,9 @@ h3 {
 
 #sketch {
 	border: none;
-	width: 100vw;
+	width: 50vw;
 	height: 50vh;
 }
 
-#overwrite {
-	color: cyan;
-}
 
 
