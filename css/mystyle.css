@@ -70,8 +70,10 @@ h1 {
 }
 
 h3 {
-	color: #7474d4; 
+	color: white; 
 	font-style: italic;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #sketch {
