@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
 
 * {
 	margin:0;
@@ -27,7 +27,7 @@ div {
 }
 
 ul {  
-	background-color: #424f59;
+	background-color: #000000;
 	margin-top: 25px;
 	font-size: 18px;
 	width: 100%;
@@ -38,7 +38,7 @@ ul {
 ul li {
 	float: left;
 	list-style-type: none;
-	padding-left: 100px;
+	padding-left: 160px;
 	/* background-color: pink; */
 }
 
@@ -57,11 +57,16 @@ h1 {
 	margin: 20px auto;
 	text-align: center; 
 	padding: 30px;
-	font-family: 'Courgette', cursive;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 .colorchange {
-	color: #ffeee5;
+	color: white;
+	width: 600px;
+	margin: 20px auto;
+	text-align: center;
+	padding: 15px;
+	
 }
 
 h3 {
